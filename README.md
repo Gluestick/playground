@@ -15,4 +15,10 @@ To run the project, clone or download the repository. Then run `npm install` (on
 
 If you haven't already, download GraphiQL [here](https://www.electronjs.org/apps/graphiql).
 
-Launch GraphiQL. Change the GraphQL endpoint to http://localhost:4000.
+Launch GraphiQL. Change the GraphQL endpoint to http://localhost:4000. You should now be able to browse the documentation, type queries & mutations, and send them to the server to receive results. This should all look something like this:
+
+![GraphiQL example](https://i.imgur.com/InBKnGs.png)
+
+## Query / mutation examples
+
+[graphql.org](https://graphql.org/learn/) has excellent examples to freshen up your memory. Of course, feel free to ask any questions!
